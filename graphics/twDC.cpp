@@ -10,6 +10,7 @@
 #include <algorithm>
 #include <tcw/twDC.h>
 #include <tcw/twException.h>
+#include <cassert>
 
 using namespace std;
 
